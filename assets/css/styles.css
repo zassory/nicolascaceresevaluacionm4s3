@@ -1,0 +1,31 @@
+.divPrincipal{
+    background-color:#B0B4B9;
+}
+.emails2,.emails4,.emails6{
+    margin-left: 45%;
+}
+.btnEnviar{
+    padding-left: 3%;   
+    padding-right: 3%;
+    margin-bottom: 7%;
+}
+.formulario{
+    margin-left: 3%;
+    padding-top: 5%;
+}
+
+.fondo-grid{
+    background-color: #B0B4B9;
+}
+
+.txtPara{
+    width: 42%;
+    height: 3rem;
+    background-color: #B0B4B9;
+    margin-left: 1rem;
+    border-radius: .6rem;
+}
+
+.txtTitulo{
+    margin-bottom: 1rem;
+}
